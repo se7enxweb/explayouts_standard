@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" requires="ezpublish 6.0">
-  <name>explayouts_standard</name>
+  <name>Exponential Layouts Standard</name>
   <summary>Standard block handler set for the Netgen Layouts port to Exponential CMS.</summary>
   <version>1.0.1</version>
   <copyright>7x</copyright>
