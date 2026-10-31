@@ -1,6 +1,6 @@
 <?php
 //
-// explayouts_standard - Standard block handler set for the Netgen Layouts port to Exponential CMS.
+// explayouts_standard - Standard block handler set of Exponential Layouts for Exponential CMS.
 // Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
 //
 // This program is free software; you can redistribute it and/or modify
